@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **deepspace580@gmail.com**
 
-- 📄 Know about my experiences **(https://drive.google.com/file/d/1UiRwYCK2Od0PUNP_KoiRCfhF3pHG-Xo3/view?usp=sharing)**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1UiRwYCK2Od0PUNP_KoiRCfhF3pHG-Xo3/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
