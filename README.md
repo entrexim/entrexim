@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aashish Kumar Singh
+# Hii, This is Aashish
 
 ### A passionate developer
 
