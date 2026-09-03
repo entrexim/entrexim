@@ -13,7 +13,7 @@
 <a href="https://github.com/entrexim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="entrexim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Aashish Kumar Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aashish Kumar Singh" height="30" width="40" /></a>
 <a href="https://instagram.com/anonymous.aashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anonymous.aashish" height="30" width="40" /></a>
-<a href="https://youtube.com/anonymous.aashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anonymous.aashish" height="30" width="40" /></a>
+<a href="https://youtu.be/Od7TjKVeuAw?si=-xuhvGmtLKLZDTGa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anonymous.aashish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
